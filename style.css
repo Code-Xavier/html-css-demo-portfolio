@@ -367,7 +367,7 @@ footer a {
   }
 }
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 970px) {
   .hero-image {
     display: none;
   }
